@@ -1,1 +1,0 @@
-@powershell -ExecutionPolicy RemoteSigned ./Build.ps1 %1
