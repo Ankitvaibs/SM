@@ -1,6 +1,0 @@
-{
-  "extends": "rackt",
-  "env": {
-    "mocha": true,
-  }
-}

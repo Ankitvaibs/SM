@@ -1,5 +1,0 @@
-class Sample {
-    test() {
-        return "";
-    }
-}

@@ -1,1 +1,0 @@
-NuGet.exe pack "..\Misc\Toasts.Forms.Plugin.nuspec"
